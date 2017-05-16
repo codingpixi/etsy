@@ -1,4 +1,4 @@
-module.exports =  [{
+var etsyData = [{
   "listing_id": 161489961,
   "state": "active",
   "user_id": 7492310,
